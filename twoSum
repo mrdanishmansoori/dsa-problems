@@ -1,6 +1,8 @@
 Input: nums = [3,2,4], target = 6
 Output: [1,2]
 
+//added in ticket 1
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         
